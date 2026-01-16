@@ -15,6 +15,9 @@ Play seamlessly on **Mobile, Desktop, and Console**, with tailored controls, bal
 - **Total Plays:** 150,000+  
 - **Theme:** Classic sci-fi arena shooter with modern accessibility
 
+**DEMO VIDEO:** https://github.com/user-attachments/assets/9398cc85-0411-49f8-a6e8-53f84d5fe8d8
+
+
 ---
 
 ## 🔫 Weapons (Inspired Arsenal)
